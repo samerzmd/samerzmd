@@ -1,4 +1,9 @@
 ### Hi there 👋
+<p>
+  <a href="https://github.com/users/follow?target=SamerZMD">
+    <img alt="Github Follow" src="https://img.shields.io/github/followers/samerzmd?style=social">
+  </a>
+</p>
 
 <p>
   <a href="https://twitter.com/SamerZMD">
