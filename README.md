@@ -5,8 +5,6 @@
   </a>
 </p>
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on IoT applications.
 - 🌱 I’m currently learning K8s and istio.
 - 👯 I’m looking to collaborate on any opensorce project.
