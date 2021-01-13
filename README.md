@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**samerzmd/samerzmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://twitter.com/SamerZMD">
+    <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/SamerZMD?style=for-the-badge">
+  </a>
+</p>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on IoT applications.
+- 🌱 I’m currently learning K8s and istio.
+- 👯 I’m looking to collaborate on any opensorce project.
 -->
+
+[![Samer's github stats](https://github-readme-stats.vercel.app/api?username=samerzmd&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samerzmd/github-readme-stats)
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=samerzmd)
+                    
