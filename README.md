@@ -10,7 +10,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on IoT applications.
 - 🌱 I’m currently learning K8s and istio.
 - 👯 I’m looking to collaborate on any opensorce project.
--->
 
 [![Samer's github stats](https://github-readme-stats.vercel.app/api?username=samerzmd&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samerzmd/github-readme-stats)
 
