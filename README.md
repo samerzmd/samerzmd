@@ -1,8 +1,6 @@
 ### Hi there 👋
 <p>
-  <a href="https://github.com/users/follow?target=SamerZMD">
-    <img alt="Github Follow" src="https://img.shields.io/github/followers/samerzmd?style=social">
-  </a>
+  <img alt="Github Follow" src="https://img.shields.io/github/followers/samerzmd?style=social">
 </p>
 
 <p>
