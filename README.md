@@ -10,6 +10,7 @@
 - 👯 I’m looking to collaborate on any opensorce project.
 
 [![Samer's github stats](https://github-readme-stats.vercel.app/api?username=samerzmd&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samerzmd/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samerzmd&layout=compact&theme=dracula" width="50%" />
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=samerzmd)
 <p>
