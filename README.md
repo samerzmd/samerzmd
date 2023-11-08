@@ -13,7 +13,6 @@
 
 [![Samer's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=samerzmd&show_icons=true&theme=tokyonight&hide_border=true)](https://github.com/samerzmd/github-readme-stats)
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=samerzmd)
 <p>
   <img alt="Github Follow" src="https://img.shields.io/github/followers/samerzmd?style=social">
 </p>
